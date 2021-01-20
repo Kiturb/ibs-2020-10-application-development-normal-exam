@@ -55,5 +55,3 @@ feed('Aquaman')
 status('Aquaman')
 getStatus()
 test = removeFish()
-del fish[test]
-getStatus()
